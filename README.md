@@ -1,2 +1,2 @@
 # MITM-555_Crypto
-### Multo Algorythm Coming Soon
+### Multi Algorythm Coming Soon
